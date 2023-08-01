@@ -1,0 +1,28 @@
+h2 {
+padding: 20px;
+}
+
+#first {
+background-color: #f2f2f2;
+color: green;
+}
+
+#second {
+background-color: #ccc;
+}
+
+#greencolor {
+color: green;
+}
+
+#purplecolor {
+color: purple;
+}
+
+#orangecolor {
+color: orange;
+}
+
+#redcolor {
+color: red;
+}
